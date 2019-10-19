@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/MinecraftScepterVersioner/precache-manifest.9902648c2a4c91a5971e97b74fd331e7.js"
+  "/MinecraftScepterVersioner/precache-manifest.d0a7caa14f5eefa6513191e3a1845873.js"
 );
 
 self.addEventListener('message', (event) => {
