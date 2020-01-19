@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8aac1b3eb8539525128b0b86e6b64017",
+    "revision": "8b3be4f0b0f3ddb32527a40bbc75aea1",
     "url": "/MinecraftScepterVersioner/index.html"
   },
   {
-    "revision": "d8919b620a354d089426",
+    "revision": "d7566d3ae8ca33a53063",
     "url": "/MinecraftScepterVersioner/static/css/main.686b5f8d.chunk.css"
   },
   {
-    "revision": "076b257c7f580e89b6ee",
-    "url": "/MinecraftScepterVersioner/static/js/2.01cd2256.chunk.js"
+    "revision": "fc2d464079e2402ad8af",
+    "url": "/MinecraftScepterVersioner/static/js/2.22651d6a.chunk.js"
   },
   {
-    "revision": "d8919b620a354d089426",
-    "url": "/MinecraftScepterVersioner/static/js/main.611b369c.chunk.js"
+    "revision": "d7566d3ae8ca33a53063",
+    "url": "/MinecraftScepterVersioner/static/js/main.0070929d.chunk.js"
   },
   {
     "revision": "e0419f03184226ede7d6",

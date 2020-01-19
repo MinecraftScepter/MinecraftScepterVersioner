@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/MinecraftScepterVersioner/static/css/main.686b5f8d.chunk.css",
-    "main.js": "/MinecraftScepterVersioner/static/js/main.611b369c.chunk.js",
-    "main.js.map": "/MinecraftScepterVersioner/static/js/main.611b369c.chunk.js.map",
+    "main.js": "/MinecraftScepterVersioner/static/js/main.0070929d.chunk.js",
+    "main.js.map": "/MinecraftScepterVersioner/static/js/main.0070929d.chunk.js.map",
     "runtime~main.js": "/MinecraftScepterVersioner/static/js/runtime~main.f72fa549.js",
     "runtime~main.js.map": "/MinecraftScepterVersioner/static/js/runtime~main.f72fa549.js.map",
-    "static/js/2.01cd2256.chunk.js": "/MinecraftScepterVersioner/static/js/2.01cd2256.chunk.js",
-    "static/js/2.01cd2256.chunk.js.map": "/MinecraftScepterVersioner/static/js/2.01cd2256.chunk.js.map",
+    "static/js/2.22651d6a.chunk.js": "/MinecraftScepterVersioner/static/js/2.22651d6a.chunk.js",
+    "static/js/2.22651d6a.chunk.js.map": "/MinecraftScepterVersioner/static/js/2.22651d6a.chunk.js.map",
     "index.html": "/MinecraftScepterVersioner/index.html",
-    "precache-manifest.a5b610ea634d79240a4d4fcb5a89de8d.js": "/MinecraftScepterVersioner/precache-manifest.a5b610ea634d79240a4d4fcb5a89de8d.js",
+    "precache-manifest.9f613efc7baf708733d72e01d94b75ce.js": "/MinecraftScepterVersioner/precache-manifest.9f613efc7baf708733d72e01d94b75ce.js",
     "service-worker.js": "/MinecraftScepterVersioner/service-worker.js",
     "static/css/main.686b5f8d.chunk.css.map": "/MinecraftScepterVersioner/static/css/main.686b5f8d.chunk.css.map"
   }
