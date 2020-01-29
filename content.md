@@ -1,6 +1,6 @@
 [安裝包](https://drive.google.com/open?id=1fjVOSpLl6JvrPHPLkFzHDUCmxA5aSnbO)
 ---
-## [Minecraft Scepter 創世神權杖 v0.10.0 (點我下載)](https://github.com/Tokenyet/MinecraftScepterVersioner/releases/download/0.10.0/minecraft_scepter.zip) ##
+## [Minecraft Scepter 創世神權杖 v0.10.1 (點我下載)](https://github.com/Tokenyet/MinecraftScepterVersioner/releases/download/0.10.1/minecraft_scepter.zip) ##
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 本次巨量更新，有興趣可查看改版資訊
 * 資訊監控
     -  新增 資訊區 方便小玩家快速找尋問題與安裝包。
