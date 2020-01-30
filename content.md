@@ -1,6 +1,6 @@
 [安裝包](https://drive.google.com/open?id=1fjVOSpLl6JvrPHPLkFzHDUCmxA5aSnbO)
 ---
-## [Minecraft Scepter 創世神權杖 v0.10.1a (點我下載)](https://github.com/Tokenyet/MinecraftScepterVersioner/releases/download/0.10.1a/minecraft_scepter.zip) ##
+## [Minecraft Scepter 創世神權杖 v0.10.1b (點我下載)](https://github.com/Tokenyet/MinecraftScepterVersioner/releases/download/0.10.1b/minecraft_scepter.zip) ##
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 本次巨量更新，有興趣可查看改版資訊
 * 快修:
     -  修正 部分 Win10 作業系統內核差異造成無法找到安裝包或伺服器問題。(感謝[-Az David](https://www.youtube.com/channel/UC_KDD8OXEjcW5yAeaWsF3hA?feature=em-comments)回報)
