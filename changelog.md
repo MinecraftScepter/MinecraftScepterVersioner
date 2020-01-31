@@ -1,7 +1,7 @@
-創世神權杖 0.10.1b
+創世神權杖 0.10.1c
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 本次巨量更新，有興趣可查看改版資訊
-* 快修:
+* 快修(不穩定版):
     -  修正 部分 Win10 作業系統內核差異造成無法找到安裝包或伺服器問題。(感謝[-Az David](https://www.youtube.com/channel/UC_KDD8OXEjcW5yAeaWsF3hA?feature=em-comments)回報)
     -  快修都已英文結尾，並保留當前主版本號之改版資訊。
 * 資訊監控
