@@ -1,5 +1,14 @@
 [安裝包](https://drive.google.com/open?id=1fjVOSpLl6JvrPHPLkFzHDUCmxA5aSnbO)
 ---
+## [Minecraft Scepter 創世神權杖 v0.11.0 (點我下載)](https://github.com/Tokenyet/MinecraftScepterVersioner/releases/download/0.11.0/minecraft_scepter.zip) ##
+* 伺服器監管
+    -  修正 輸入指令 終端機未有反應，但實際上仍有作用的反饋問題。
+    -  改善 下拉式 有機率視覺閃爍問題。
+* 其他
+    -  新增 許多測試 提升權杖穩定度
+* [咖啡](https://p.ecpay.com.tw/8F8FE)?
+    -  歡迎任何有餘力的開服小玩家，贊助支持！未來會寫入貢獻史冊(?) // 預計 1.0.0 版加入，目前仍以改善軟體為主。
+
 ## [Minecraft Scepter 創世神權杖 v0.10.1c (點我下載)](https://github.com/Tokenyet/MinecraftScepterVersioner/releases/download/0.10.1c/minecraft_scepter.zip) ##
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 本次巨量更新，有興趣可查看改版資訊
 * 快修 (不穩定版):
