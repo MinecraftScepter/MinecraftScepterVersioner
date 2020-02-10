@@ -1,5 +1,15 @@
 [安裝包](https://drive.google.com/open?id=1fjVOSpLl6JvrPHPLkFzHDUCmxA5aSnbO)
 ---
+## [Minecraft Scepter 創世神權杖 v0.30.0 (點我下載)](https://github.com/Tokenyet/MinecraftScepterVersioner/releases/download/0.30.0/minecraft_scepter.zip) ##
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 新功能更新，有問題煩請回報！
+
+* 資訊監控
+    -  新增 Ngrok 一種新的開服方式，去 Ngrok 官網申請後，得到一組金鑰填入即可獲得 IP。
+* 安裝包製作
+    -  新增 導引式製作 可以逐步了解每個步驟，取代填表單的形式了解整個內容。
+* [咖啡](https://p.ecpay.com.tw/8F8FE)?
+    -  歡迎任何有餘力的開服小玩家，贊助支持！未來會寫入貢獻史冊(?) // 預計 1.0.0 版加入，目前仍以改善軟體為主。
+
 ## [Minecraft Scepter 創世神權杖 v0.11.0 (點我下載)](https://github.com/Tokenyet/MinecraftScepterVersioner/releases/download/0.11.0/minecraft_scepter.zip) ##
 * 伺服器監管
     -  修正 輸入指令 終端機未有反應，但實際上仍有作用的反饋問題。
