@@ -1,5 +1,25 @@
 [安裝包製作參考區](https://drive.google.com/open?id=1fjVOSpLl6JvrPHPLkFzHDUCmxA5aSnbO)
 ---
+## [Minecraft Scepter 創世神權杖 v0.80.0 (點我下載)](https://github.com/Tokenyet/MinecraftScepterVersioner/releases/download/0.80.0/minecraft_scepter.zip) ##
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 新功能更新，有問題煩請回報！
+
+* 資訊
+    -  新增 語言切換
+* 伺服器管理
+    -  新增 超方便的 server.proeprties 修改。
+    -  新增 java 記憶體修改支援。
+    -  微調 開服流程。
+* 安裝包製作
+    -  修改 網址 允許規則
+* 其他
+    -  三國語言好累...，官方網站也改了英繁與一些視覺改變FAQ...等，語言得由網址切換/en /tw。
+    -  新增 Paypal 金流付款
+    -  修改 贊助伺服器後端
+    -  快不想搞了，好累阿
+* [咖啡](http://bit.ly/mcscpterdonation)?
+    -  歡迎任何有餘力的開服小玩家，贊助支持！未來會寫入貢獻史冊(?) // 預計 1.0.0 版加入，目前仍以改善軟體為主。
+
+
 ## [Minecraft Scepter 創世神權杖 v0.30.2 (點我下載)](https://github.com/Tokenyet/MinecraftScepterVersioner/releases/download/0.30.2/minecraft_scepter.zip) ##
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 新功能更新，有問題煩請回報！
 
@@ -11,7 +31,7 @@
     -  新增 導引式製作 可以逐步了解每個步驟，取代填表單的形式了解整個內容。
 * 其他
     -  感謝[我有鑽石股份有限公司](http://www.youtube.com/channel/UCATXrY_MU8k3ldigD3aidrA) 回報 Forge 不能使用的問題。
-* [咖啡](http://bit.ly/mcscpterdonation)?
+* [咖啡](http://bit.ly/minecraftscepterdonation_tw)?
     -  歡迎任何有餘力的開服小玩家，贊助支持！未來會寫入貢獻史冊(?) // 預計 1.0.0 版加入，目前仍以改善軟體為主。
 
 ## [Minecraft Scepter 創世神權杖 v0.11.0 (點我下載)](https://github.com/Tokenyet/MinecraftScepterVersioner/releases/download/0.11.0/minecraft_scepter.zip) ##
