@@ -1,5 +1,18 @@
 [安裝包製作參考區](https://drive.google.com/open?id=1fjVOSpLl6JvrPHPLkFzHDUCmxA5aSnbO)
 ---
+## [Minecraft Scepter 創世神權杖 v0.82.0 (點我下載)](https://github.com/Tokenyet/MinecraftScepterVersioner/releases/download/0.82.0/minecraft_scepter.zip) ##
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 新功能更新，有問題煩請回報！
+
+* 資訊
+    -  優化與新增 Ngrok 地理位置支援，流程優化。
+* 其他
+    -  新增 無數筆測試。
+    -  新增 官方網站 贊助列表
+    -  修改 贊助伺服器後端
+* [咖啡](http://bit.ly/mcscpterdonation)?
+    -  歡迎任何有餘力的開服小玩家，贊助支持！官網贊助表自動更新。
+
+
 ## [Minecraft Scepter 創世神權杖 v0.80.0 (點我下載)](https://github.com/Tokenyet/MinecraftScepterVersioner/releases/download/0.80.0/minecraft_scepter.zip) ##
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 新功能更新，有問題煩請回報！
 
