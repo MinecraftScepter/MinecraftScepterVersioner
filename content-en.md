@@ -1,15 +1,13 @@
 [Installer Making resources](https://drive.google.com/open?id=1fjVOSpLl6JvrPHPLkFzHDUCmxA5aSnbO)
 ---
-## [Minecraft Scepter v0.83.0](https://github.com/Tokenyet/MinecraftScepterVersioner/releases/download/0.83.0/minecraft_scepter.zip) ##
+## [Minecraft Scepter v0.83.1](https://github.com/Tokenyet/MinecraftScepterVersioner/releases/download/0.83.1/minecraft_scepter.zip) ##
 * Manage
     -  Improve installer and server detection
+* Special Thanks
+    -  Thanks [Leon BAO](https://www.youtube.com/channel/UCtAwjhyiguuXSK39jye3lUg) for reporting bug for 0.83.0.
 * [Coffee](http://bit.ly/minecraftscepterdonation_en)?
     -  This means a lot for me, so any contributions are much appreciated. Please keep in mind that all donations are non-refundable.
-
-## [Minecraft Scepter v0.80.0](https://github.com/Tokenyet/MinecraftScepterVersioner/releases/download/0.80.0/minecraft_scepter.zip) ##
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) New feature! Any feedback is appreciated
-
-
+    
 ## [Minecraft Scepter v0.82.0](https://github.com/Tokenyet/MinecraftScepterVersioner/releases/download/0.82.0/minecraft_scepter.zip) ##
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) New feature! Any feedback is appreciated
 
