@@ -1,8 +1,15 @@
-Minecraft Scepter 0.83.1
+Minecraft Scepter 0.90.0
 
 * Manage
-    -  Improve installer and server detection
+    -  Support modpack
+    -  Support terminal color
+    -  Support Chinese path
+    -  Fix Language display error on Traditional and Simplification Chinese
+    -  Fix Chinese bug in terminal
+* Build
+    -  Support modpack, but not CurseForge's messy unformmated pack, a real pure list of mods.
 * Special Thanks
-    -  Thanks [Leon BAO](https://www.youtube.com/channel/UCtAwjhyiguuXSK39jye3lUg) for reporting bug for 0.83.0.
+    -  Thanks [味噌花栗鼠](https://www.youtube.com/channel/UCCZSS6L8dRXqpWiMc-q7YpQ) for reporting the bug about Chinese displayed stuck terminal.
 * [Coffee](http://bit.ly/minecraftscepterdonation_en)?
     -  This means a lot for me, so any contributions are much appreciated. Please keep in mind that all donations are non-refundable.
+    

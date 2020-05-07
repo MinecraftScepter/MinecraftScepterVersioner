@@ -1,6 +1,20 @@
 [安裝包製作參考區](https://drive.google.com/open?id=1fjVOSpLl6JvrPHPLkFzHDUCmxA5aSnbO)
 ---
-## [Minecraft Scepter 創世神權杖 v0.83.0 (點我下載)](https://github.com/Tokenyet/MinecraftScepterVersioner/releases/download/0.83.1/minecraft_scepter.zip) ##
+## [Minecraft Scepter 創世神權杖 v0.90.0 (點我下載)](https://github.com/Tokenyet/MinecraftScepterVersioner/releases/download/0.90.0/minecraft_scepter.zip) ##
+* 伺服器管理
+    -  支援 模組包
+    -  支援 終端機顏色
+    -  支援 中文路徑
+    -  修正 簡繁顯示錯誤
+    -  修正 終端機出現中文造成卡住的 bug
+* 製作安裝包
+    -  支援模組版，但非 CurseForge 那種亂七八糟的模組包，是多個純模組打包。
+* 感謝
+    -  感謝[味噌花栗鼠](https://www.youtube.com/channel/UCCZSS6L8dRXqpWiMc-q7YpQ)回報中文輸入導致卡住的 bug。
+* [咖啡](http://bit.ly/mcscpterdonation)?
+    -  歡迎任何有餘力的開服小玩家，贊助支持！官網贊助表自動更新。
+    
+## [Minecraft Scepter 創世神權杖 v0.83.1 (點我下載)](https://github.com/Tokenyet/MinecraftScepterVersioner/releases/download/0.83.1/minecraft_scepter.zip) ##
 * 伺服器管理
     -  改善安裝包列表與伺服器列表偵測問題。
 * 感謝
@@ -8,7 +22,7 @@
 * [咖啡](http://bit.ly/mcscpterdonation)?
     -  歡迎任何有餘力的開服小玩家，贊助支持！官網贊助表自動更新。
 
-## [Minecraft Scepter 創世神權杖 v0.82.0 (點我下載)]($LATEST_DOWNLOAD) ##
+## [Minecraft Scepter 創世神權杖 v0.82.0 (點我下載)](https://github.com/Tokenyet/MinecraftScepterVersioner/releases/download/0.82.0/minecraft_scepter.zip) ##
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 新功能更新，有問題煩請回報！
 
 * 資訊
