@@ -1,5 +1,14 @@
 [Installer Making resources](https://drive.google.com/open?id=1fjVOSpLl6JvrPHPLkFzHDUCmxA5aSnbO)
 ---
+## [Minecraft Scepter v0.92.0](https://github.com/Tokenyet/MinecraftScepterVersioner/releases/download/0.92.0/minecraft_scepter.zip) ##
+* Manage
+    -  Support installer infos and sharing feature
+    -  Fix the directory doesn't exist, will pop to document directory issue
+* Special Thanks
+    -  Thanks [謝政霖](https://www.youtube.com/channel/UCKtRUd9iFrsVBFaK-KaeGWg) for reporting the issue about open non-exist directory issue.
+* [Coffee](http://bit.ly/minecraftscepterdonation_en)?
+    -  This means a lot for me, so any contributions are much appreciated. Please keep in mind that all donations are non-refundable.
+    
 ## [Minecraft Scepter v0.90.0](https://github.com/Tokenyet/MinecraftScepterVersioner/releases/download/0.90.0/minecraft_scepter.zip) ##
 * Manage
     -  Support modpack

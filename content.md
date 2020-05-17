@@ -1,5 +1,14 @@
 [安裝包製作參考區](https://drive.google.com/open?id=1fjVOSpLl6JvrPHPLkFzHDUCmxA5aSnbO)
 ---
+## [Minecraft Scepter 創世神權杖 v0.92.0 (點我下載)](https://github.com/Tokenyet/MinecraftScepterVersioner/releases/download/0.92.0/minecraft_scepter.zip) ##
+* 伺服器管理
+    -  支援 安裝包資訊與分享資訊
+    -  修正 安裝包與伺服器資料夾未存在，會跳至文件的問題
+* 感謝
+    -  感謝[謝政霖](https://www.youtube.com/channel/UCKtRUd9iFrsVBFaK-KaeGWg)回報無資料夾開啟跳至文件問題。
+* [咖啡](http://bit.ly/mcscpterdonation)?
+    -  歡迎任何有餘力的開服小玩家，贊助支持！官網贊助表自動更新。
+    
 ## [Minecraft Scepter 創世神權杖 v0.90.0 (點我下載)](https://github.com/Tokenyet/MinecraftScepterVersioner/releases/download/0.90.0/minecraft_scepter.zip) ##
 * 伺服器管理
     -  支援 模組包

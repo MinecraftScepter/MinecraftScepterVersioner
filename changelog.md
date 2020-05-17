@@ -1,14 +1,10 @@
-創世神權杖 0.90.0
+創世神權杖 0.92.0
 
 * 伺服器管理
-    -  支援 模組包
-    -  支援 終端機顏色
-    -  支援 中文路徑
-    -  修正 簡繁顯示錯誤
-    -  修正 終端機出現中文造成卡住的 bug
-* 製作安裝包
-    -  支援模組版，但非 CurseForge 那種亂七八糟的模組包，是多個純模組打包。
+    -  支援 安裝包資訊與分享資訊
+    -  修正 安裝包與伺服器資料夾未存在，會跳至文件的問題
 * 感謝
-    -  感謝[味噌花栗鼠](https://www.youtube.com/channel/UCCZSS6L8dRXqpWiMc-q7YpQ)回報中文輸入導致卡住的 bug。
+    -  感謝[謝政霖](https://www.youtube.com/channel/UCKtRUd9iFrsVBFaK-KaeGWg)回報無資料夾開啟跳至文件問題。
 * [咖啡](http://bit.ly/mcscpterdonation)?
     -  歡迎任何有餘力的開服小玩家，贊助支持！官網贊助表自動更新。
+    
