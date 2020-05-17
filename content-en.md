@@ -1,6 +1,6 @@
 [Installer Making resources](https://drive.google.com/open?id=1fjVOSpLl6JvrPHPLkFzHDUCmxA5aSnbO)
 ---
-## [Minecraft Scepter v0.92.0](https://github.com/Tokenyet/MinecraftScepterVersioner/releases/download/0.92.0/minecraft_scepter.zip) ##
+## [Minecraft Scepter v0.92.1](https://github.com/Tokenyet/MinecraftScepterVersioner/releases/download/0.92.1/minecraft_scepter.zip) ##
 * Manage
     -  Support installer infos and sharing feature
     -  Fix the directory doesn't exist, will pop to document directory issue

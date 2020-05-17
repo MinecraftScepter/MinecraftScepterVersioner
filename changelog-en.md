@@ -1,4 +1,4 @@
-Minecraft Scepter 0.92.0
+Minecraft Scepter 0.92.1
 
 * Manage
     -  Support installer infos and sharing feature

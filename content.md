@@ -1,6 +1,6 @@
 [安裝包製作參考區](https://drive.google.com/open?id=1fjVOSpLl6JvrPHPLkFzHDUCmxA5aSnbO)
 ---
-## [Minecraft Scepter 創世神權杖 v0.92.0 (點我下載)](https://github.com/Tokenyet/MinecraftScepterVersioner/releases/download/0.92.0/minecraft_scepter.zip) ##
+## [Minecraft Scepter 創世神權杖 v0.92.1 (點我下載)](https://github.com/Tokenyet/MinecraftScepterVersioner/releases/download/0.92.1/minecraft_scepter.zip) ##
 * 伺服器管理
     -  支援 安裝包資訊與分享資訊
     -  修正 安裝包與伺服器資料夾未存在，會跳至文件的問題
