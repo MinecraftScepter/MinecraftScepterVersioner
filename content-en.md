@@ -1,5 +1,22 @@
 [Installer Making resources](https://drive.google.com/open?id=1fjVOSpLl6JvrPHPLkFzHDUCmxA5aSnbO)
 ---
+## [Minecraft Scepter 創世神權杖 v0.95.0](https://github.com/MinecraftScepter/MinecraftScepterVersioner/releases/download/0.95.0/minecraft_scepter.zip) ##
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) New feature! Any feedback is appreciated
+
+* Info
+    - Add and Refactor Port detection
+      * (Use local and public to distinct connection problem)
+    - Fix PORT card crash UI
+* About
+    - Update avatar
+* Other
+    - Update a bunch of tests and reconstruct to classify Unit and Intergration tests.
+    - Some widgets improvement
+    - Use Noto Sans SC/TC
+    - Perfomance Improvement with AOT mode(prev. JIT)
+* [Coffee](http://bit.ly/minecraftscepterdonation_en)?
+    -  This means a lot for me, so any contributions are much appreciated. Please keep in mind that all donations are non-refundable.
+
 ## [Minecraft Scepter v0.92.1](https://github.com/Tokenyet/MinecraftScepterVersioner/releases/download/0.92.1/minecraft_scepter.zip) ##
 * Manage
     -  Support installer infos and sharing feature

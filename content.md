@@ -1,5 +1,22 @@
 [安裝包製作參考區](https://drive.google.com/open?id=1fjVOSpLl6JvrPHPLkFzHDUCmxA5aSnbO)
 ---
+## [Minecraft Scepter 創世神權杖 v0.95.0 (點我下載)](https://github.com/MinecraftScepter/MinecraftScepterVersioner/releases/download/0.95.0/minecraft_scepter.zip) ##
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 新功能更新，有問題煩請回報！
+
+* 資訊
+    - 新增與重寫 偵測機制從依賴外部系統改為由使用者機器進行 PORT 偵測
+      * (分為本地與公開偵測，本地確認伺服器運行可透過 port 自連，公開則透過真實網路進行連線測試)
+    - 修復 PORT UI崩潰
+* 關於
+    - 更新頭像
+* 其他
+    - 測試大重整與區分整合與單元測試
+    - 部分元件優化與調整。
+    - 預設新字形 Noto Sans SC/TC
+    - 效能優化 JIT => AOT
+* [咖啡](http://bit.ly/mcscpterdonation)?
+    -  歡迎任何有餘力的開服小玩家，贊助支持！官網贊助表自動更新。
+
 ## [Minecraft Scepter 創世神權杖 v0.92.1 (點我下載)](https://github.com/Tokenyet/MinecraftScepterVersioner/releases/download/0.92.1/minecraft_scepter.zip) ##
 * 伺服器管理
     -  支援 安裝包資訊與分享資訊
