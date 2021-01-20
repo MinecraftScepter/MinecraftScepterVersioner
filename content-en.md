@@ -1,6 +1,17 @@
 [Installer Making resources](https://drive.google.com/open?id=1fjVOSpLl6JvrPHPLkFzHDUCmxA5aSnbO)
 ---
-## [Minecraft Scepter 創世神權杖 v0.95.0](https://github.com/MinecraftScepter/MinecraftScepterVersioner/releases/download/0.95.0/minecraft_scepter.zip) ##
+## [Minecraft Scepter v0.95.1](https://github.com/MinecraftScepter/MinecraftScepterVersioner/releases/download/0.95.1/minecraft_scepter.zip) ##
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) New feature! Any feedback is appreciated
+
+* Manage
+    - Fix dropdown crash leads to crash whole app 
+    - Fix forge creation, can't find executable error
+* Other
+    - Thanks all players to report BUG!
+* [Coffee](http://bit.ly/minecraftscepterdonation_en)?
+    -  This means a lot for me, so any contributions are much appreciated. Please keep in mind that all donations are non-refundable.
+
+## [Minecraft Scepter v0.95.0](https://github.com/MinecraftScepter/MinecraftScepterVersioner/releases/download/0.95.0/minecraft_scepter.zip) ##
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) New feature! Any feedback is appreciated
 
 * Info

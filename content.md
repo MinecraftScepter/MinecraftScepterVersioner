@@ -1,5 +1,16 @@
 [安裝包製作參考區](https://drive.google.com/open?id=1fjVOSpLl6JvrPHPLkFzHDUCmxA5aSnbO)
 ---
+## [Minecraft Scepter 創世神權杖 v0.95.1 (點我下載)](https://github.com/MinecraftScepter/MinecraftScepterVersioner/releases/download/0.95.1/minecraft_scepter.zip) ##
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 新功能更新，有問題煩請回報！
+
+* 伺服器管理
+    - 修正 伺服器建立過程發生例外導致下拉崩潰進而整個程式崩潰問題
+    - 修正 Forge 建立伺服器找不到執行檔問題
+* 其他
+    - 感謝所有回報 BUG 的小玩家們!!
+* [咖啡](http://bit.ly/mcscpterdonation)?
+    -  歡迎任何有餘力的開服小玩家，贊助支持！官網贊助表自動更新。
+
 ## [Minecraft Scepter 創世神權杖 v0.95.0 (點我下載)](https://github.com/MinecraftScepter/MinecraftScepterVersioner/releases/download/0.95.0/minecraft_scepter.zip) ##
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 新功能更新，有問題煩請回報！
 
