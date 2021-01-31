@@ -1,11 +1,13 @@
 [Installer Making resources](https://drive.google.com/open?id=1fjVOSpLl6JvrPHPLkFzHDUCmxA5aSnbO)
 ---
-## [Minecraft Scepter v0.95.2](https://github.com/MinecraftScepter/MinecraftScepterVersioner/releases/download/0.95.2/minecraft_scepter.zip) ##
+## [Minecraft Scepter v0.95.3](https://github.com/MinecraftScepter/MinecraftScepterVersioner/releases/download/0.95.3/minecraft_scepter.zip) ##
 
 * Info
-    - Fix ngrok can't unzip correctly.
+    - Fix ngrok unzip incorrectly.
+    - Fix map unzip incorrectly.
 * Other
     - Thanks for reporting Ngrok BUGs! (白虎狼, SG Games, 蘇宥瑄)
+    - Thanks for reporting Map BUG! (陳永辰✨)
 * [Coffee](http://bit.ly/minecraftscepterdonation_en)?
     -  This means a lot for me, so any contributions are much appreciated. Please keep in mind that all donations are non-refundable.
 

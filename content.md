@@ -1,11 +1,14 @@
 [安裝包製作參考區](https://drive.google.com/open?id=1fjVOSpLl6JvrPHPLkFzHDUCmxA5aSnbO)
 ---
-## [Minecraft Scepter 創世神權杖 v0.95.2 (點我下載)](https://github.com/MinecraftScepter/MinecraftScepterVersioner/releases/download/0.95.2/minecraft_scepter.zip) ##
+
+## [Minecraft Scepter 創世神權杖 v0.95.3 (點我下載)](https://github.com/MinecraftScepter/MinecraftScepterVersioner/releases/download/0.95.3/minecraft_scepter.zip) ##
 
 * 資訊
     - 修正 Ngrok 下載後無法解壓縮檔案問題
+    - 修正 地圖包 無法正常解壓縮問題
 * 其他
-    - 感謝回報 Ngrok BUG 的小玩家們! (白虎狼, SG Games, 蘇宥瑄)
+    - 感謝回報 Ngrok BUG 的小玩家們! (白虎狼, SG Games, 蘇宥瑄,)
+    - 感謝回報 地圖解壓縮 BUG ! (陳永辰✨)
 * [咖啡](http://bit.ly/mcscpterdonation)?
     -  歡迎任何有餘力的開服小玩家，贊助支持！官網贊助表自動更新。
 
