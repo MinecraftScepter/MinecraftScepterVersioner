@@ -1,11 +1,8 @@
-Minecraft Scepter 0.95.1
+Minecraft Scepter 0.95.2
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) New feature! Any feedback is appreciated
-
-* Manage
-    - Fix dropdown crash leads to crash whole app 
-    - Fix forge creation, can't find executable error
+* Info
+    - Fix ngrok can't unzip correctly.
 * Other
-    - Thanks all players to report BUG!
+    - Thanks for reporting Ngrok BUGs! (白虎狼, SG Games, 蘇宥瑄)
 * [Coffee](http://bit.ly/minecraftscepterdonation_en)?
     -  This means a lot for me, so any contributions are much appreciated. Please keep in mind that all donations are non-refundable.
